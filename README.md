@@ -6,10 +6,10 @@ Link to the course: [https://www.udemy.com/course/a-crash-course-in-pyspark/]
 
 Added all the associated support files as well.
 
-_1. config_block.txt - to setup pyspark session on Google Colab_
+1. config_block.txt - to setup pyspark session on Google Colab
 
-_2. original.csv - csv file for all the analysis and practice_
+2. original.csv - csv file for all the analysis and practice
 
-_3. challenge.csv - csv file for final challenge assignment_
+3. challenge.csv - csv file for final challenge assignment
 
 Link to my course completion certificate: [https://www.udemy.com/certificate/UC-a0dffcb3-1958-46aa-9e91-cfb2ed947a3b/]
